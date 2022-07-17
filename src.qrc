@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/BG.png</file>
+        <file>Image/BGTest.png</file>
+        <file>Image/ic-下拉.png</file>
+        <file>Image/ic_停用121.png</file>
+        <file>Image/ic_停用血泵.png</file>
+        <file>Image/ic_充电中.png</file>
+        <file>Image/ic_历史记录.png</file>
+        <file>Image/ic_启用121.png</file>
+        <file>Image/ic_启用血泵.png</file>
+        <file>Image/ic_报警.png</file>
+        <file>Image/ic_设置.png</file>
+        <file>Image/img_logo28.png</file>
+    </qresource>
+</RCC>
